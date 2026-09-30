@@ -1,0 +1,125 @@
+{
+ "kahraman": {
+  "w": 2400,
+  "h": 1576,
+  "genislikler": [
+   2400,
+   1400,
+   800
+  ],
+  "fotografci": "David Booth",
+  "kaynak": "https://unsplash.com/photos/1655817683086-c052b65f781f"
+ },
+ "gunbatimi": {
+  "w": 1600,
+  "h": 1067,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Ethereal Optics",
+  "kaynak": "https://unsplash.com/photos/1606739211185-2c846d734a6d"
+ },
+ "traktor": {
+  "w": 1600,
+  "h": 1053,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Randy Fath",
+  "kaynak": "https://unsplash.com/photos/1594771804886-a933bb2d609b"
+ },
+ "ot": {
+  "w": 2400,
+  "h": 795,
+  "genislikler": [
+   2400,
+   1200,
+   800
+  ],
+  "fotografci": "Don Starkey",
+  "kaynak": "https://unsplash.com/photos/1689876798392-14affa012ddc"
+ },
+ "balya": {
+  "w": 1600,
+  "h": 900,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Wolfgang Weiser",
+  "kaynak": "https://unsplash.com/photos/1786282815026-5363574bd7a0"
+ },
+ "toprak": {
+  "w": 1600,
+  "h": 1067,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Hannah Shedrow",
+  "kaynak": "https://unsplash.com/photos/1696441567908-6a04d49e1350"
+ },
+ "romork": {
+  "w": 1600,
+  "h": 900,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Wolfgang Weiser",
+  "kaynak": "https://unsplash.com/photos/1783923829863-038154684870"
+ },
+ "ekim": {
+  "w": 1600,
+  "h": 1199,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Tom De Decker",
+  "kaynak": "https://unsplash.com/photos/1717702576954-c07131c54169"
+ },
+ "kis": {
+  "w": 1600,
+  "h": 1067,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Giuli Canderle",
+  "kaynak": "https://unsplash.com/photos/1657135946514-c449028ea793"
+ },
+ "mera": {
+  "w": 2400,
+  "h": 1601,
+  "genislikler": [
+   2400,
+   1200,
+   800
+  ],
+  "fotografci": "Sergei Karakulov",
+  "kaynak": "https://unsplash.com/photos/1682616698584-3c73adadbe7c"
+ },
+ "klasik": {
+  "w": 1600,
+  "h": 1068,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Micah Tindell",
+  "kaynak": "https://unsplash.com/photos/1551411997-10aae2ec4789"
+ },
+ "kabin": {
+  "w": 1600,
+  "h": 1067,
+  "genislikler": [
+   1600,
+   800
+  ],
+  "fotografci": "Spencer Scott Pugh",
+  "kaynak": "https://unsplash.com/photos/1484759288640-783b22c95d54"
+ }
+}

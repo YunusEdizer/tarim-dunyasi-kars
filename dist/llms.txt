@@ -1,0 +1,20 @@
+# Tarım Dünyası Traktör Galerisi
+
+> Kars'taki traktör galerisi (Kars merkez; ilçeler: Sarıkamış, Kağızman, Arpaçay, Selim, Digor, Susuz, Akyaka). Sahibi: Okan Edizer. İkinci el traktör, tarım makineleri ve ekipmanları alım-satımı. Telefon ve WhatsApp: 0530 179 08 36. E-posta: edizer2010@hotmail.com. Güncel ilanlar: https://www.sahibinden.com/satici-profili/okanedizer-bU0CMgOXKaqD9X9fNrnb8Gw
+
+## Ürün grupları
+- [İkinci El Traktör](https://tarim-dunyasi-kars.vercel.app/urunler/ikinci-el-traktor/): Tarlaya, bahçeye ve ahıra göre; 2WD ya da 4WD, kabinli ya da korumalı.
+- [Ot ve Hasat Makineleri](https://tarim-dunyasi-kars.vercel.app/urunler/ot-ve-hasat-makineleri/): Çayır biçme, ot tırmığı ve balya makinesi: hayvancılığın yaz işi.
+- [Toprak İşleme Ekipmanları](https://tarim-dunyasi-kars.vercel.app/urunler/toprak-isleme-ekipmanlari/): Pulluk, kültivatör, diskaro ve rotovatör: ekime hazır toprak.
+- [Römork ve Taşıma Ekipmanları](https://tarim-dunyasi-kars.vercel.app/urunler/romork-ve-tasima/): Ot, yem, gübre ve su taşımak için römork ve tanker.
+- [Ekim ve Gübreleme Makineleri](https://tarim-dunyasi-kars.vercel.app/urunler/ekim-ve-gubreleme/): Mibzer, gübre serpme ve ilaçlama makineleri.
+
+## Rehber
+- [İkinci el traktör alırken 15 maddelik kontrol listesi](https://tarim-dunyasi-kars.vercel.app/rehber/ikinci-el-traktor-alirken-kontrol-listesi/): Traktörü mutlaka soğukken çalıştırın; motor, şanzıman ve hidrolikte kaçak arayın, kuyruk milini ve üç nokta askıyı yük altında deneyin.
+- [Kars için traktör seçimi: 2WD mi 4WD mi, kaç beygir?](https://tarim-dunyasi-kars.vercel.app/rehber/kars-icin-traktor-secimi-2wd-mi-4wd-mi/): Traktörü yapacağınız en ağır işe göre seçin.
+- [Kars kışına traktör hazırlığı: 8 adımlık bakım](https://tarim-dunyasi-kars.vercel.app/rehber/traktor-kis-bakimi-kars/): Kış gelmeden antifrizin donma derecesini ölçtürün, aküyü test ettirin, kızdırma bujilerini kontrol edin ve depoyu kışlık motorinle doldurun.
+- [Ot sezonundan önce çayır biçme ve balya makinesi hazırlığı](https://tarim-dunyasi-kars.vercel.app/rehber/ot-sezonu-oncesi-makine-hazirligi/): Sezondan önce biçme bıçaklarını ve diskleri değiştirin ya da bileyin, balya makinesinin düğüm sistemini ve iğnelerini ayarlatın, zincirleri gerip yağlayın, ip ya da ağı önceden alın.
+
+## İletişim
+- [Traktör bul / sat](https://tarim-dunyasi-kars.vercel.app/talep/)
+- [İletişim](https://tarim-dunyasi-kars.vercel.app/iletisim/)
